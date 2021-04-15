@@ -1,2 +1,2 @@
-print('Hello,new and old world!')
+print('Hello,new world!')
 //Hello my name is, Kyle
