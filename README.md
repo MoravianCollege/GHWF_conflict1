@@ -1,3 +1,3 @@
 # Contributors
-* Reed Sturza
-* Justin Szaro
+* Reed Sturza :wink
+* Justin Szaro :wink
